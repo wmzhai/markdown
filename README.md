@@ -163,6 +163,7 @@ Windowns下的MarkdownPad也用过，不过免费版的效果不是很好。
 Mac下的Mou是国人贡献的，口碑很好。    
 Linux下的ReText不错。    
 在线的dillinger.io算是评价最好的了，可是不能离线使用。     
+Haroopad也还不错，windows，linux，mac下都有对应的客户端，能够进行预览   
 
 
 ****   
